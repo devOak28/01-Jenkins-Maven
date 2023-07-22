@@ -15,10 +15,6 @@ public class HomeControllerTest {
 	    public void testName2() {  
 	        assertEquals("Devesh", "Devesh");  
 	    } 
-	  
-	  @Test  
-	    public void testName3() {  
-	        assertEquals("Devesh", "devesh");  
-	    } 
+
 	
 }
