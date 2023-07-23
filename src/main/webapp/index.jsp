@@ -5,7 +5,7 @@
 </head>
 <body>
 <center>
-    <h1>Hello, Jenkins App!</h1>
+    <h1>Welcome to your first App in Jenknis Pipeline</h1>
 </center>
 
 </body>
